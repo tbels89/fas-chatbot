@@ -1,0 +1,468 @@
+Key Takeaways (October 2022)
+
+September 2022
+Market Recap & Outlook
+
+October 2022
+Market Recap & Outlook
+
+Rebounding from September’s performance, October 2022 trended positively for crypto assets overall.
+➤ BTC gained +6% for the month. Historically, October is a positive month for BTC performance with a
+historical median return of +15%. BTC’s October 2022 volatility (32%) was significantly lower than in
+September 2022 (64%) and well below its October historical median volatility (58%).
+➤ ETH recorded a gain of +20% for October 2022. ETH’s 53% volatility outpaced BTC’s 32%.
+➤ All sectors saw positive returns over the month ranging between +1% to +69%. Meme Coins massively
+outperformed returning +69%, led by Dogecoin’s 114% rally towards the end of the month. Following
+Meme Coins, Ethereum and the Exchange sector performed the best, returning +20% and +15%,
+respectively. The Layer-1 sector, which excludes BTC and ETH, made only modest gains, returning +1%.
+➤ DeFi assets saw mixed returns, ranging from -17% to +49%. SUSHI performed the best at +49% while
+COMP fell the most, losing -17%.
+➤ NFT market activity on OpenSea continued to slow down in October. Average daily users and average
+daily transactions fell -11.0% and -13.8% MoM, respectively. NFT volume also saw a decrease with
+average daily volume dropping -18.2%.
+➤ BTC correlations with risk-on and risk-off assets remained positive in October. BTC’s positive correlation
+with gold remained mostly stable throughout the month and at times neared its 2022 all-time high
+established in September. In terms of risk on-assets, BTC’s positive correlation with major U.S. equity
+markets decelerated during the last week of October. BTC’s inverse correlation with the U.S. dollar index
+(DXY) strengthened during the month.
+➤ Both BTC and ETH whale activity were quiet in October 2022. The amount of BTC held by whales
+starting the month at ₿7.89M and closing at ₿7.90M, and the amount of ETH held by whales started off
+and closed the month at Ξ81.5M.
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+2
+
+2
+
+Bitcoin (BTC)
+
+October 2022
+Market Recap & Outlook
+
+Performance
+➤ BTC gained +6% for the month of October 2022.
+Starting the month at $19,315, BTC jumped to a daily
+closing high of $20,774 on October 26 before closing
+the month at $20,495.
+➤ BTC’s annualized volatility started the month off at 65%,
+plummeted to 27% on October 22, and then closed the
+month out at 32%.
+➤ On October 10, Bitcoin network's mining difficulty
+experienced a +13.6% adjustment to a new all-time high
+following a -2.1% decrease in late September 2022. The
+network's mining difficulty rose again during its next
+adjustment on October 28 by +3.4%. Bitcoin's hash rate
+also dropped to 256 EH/s during the same time.
+Increasing mining difficulty levels indicate increased
+competition among crypto miners working to introduce
+new blocks.
+
+Source: Blockchain.com and The Block.
+
+Source: Kraken Intelligence based on data from CoinGecko and Coin Metrics.
+
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+3
+
+3
+
+Ether (ETH)
+
+October 2022
+Market Recap & Outlook
+
+Performance
+➤ ETH soared during the month of October, returning
++20%. Starting out the month at $1,311, ETH spiked to
+$1,619 on October 29 before closing the month at the
+month at $1,573.
+➤ Like BTC, ETH’s annualized volatility also decreased
+through October, starting off the month at 78% and
+closing at 54%, with a momentary slide to 32% on
+October 22.
+➤ On October 14, Ethereum developers announced the
+launch of a Pre-Shanghai testnet called Shandong. The
+Shanghai upgrade is slated to happen sometime in 2023
+and will be Ethereum's first upgrade post Merge. A host
+of Ethereum Improvement Proposals (EIP) are being
+considered for inclusion in the Shanghai upgrade to
+address efficiency and scalability issues. The most
+anticipated proposal for inclusion is EIP 4895, which will
+allow users who staked ETH on the Beacon chain to
+withdraw their stake, along with any rewards earned.
+
+Source: CoinDesk.
+Source: Kraken Intelligence based on data from CoinGecko and Coin Metrics.
+
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+4
+
+4
+
+What Happened in Crypto?
+
+October 2022
+Market Recap & Outlook
+
+Sector Breakdown (Oct. 2022)
+
+➤ All sectors gained in October 2022. Meme Coins
+massively outperformed returning +69%, led by
+Dogecoin’s 114% rally towards the end of the month.
+➤ Following Meme Coins, Ethereum and the Exchange
+sector also led, returning +20% and +15%, respectively.
+The Layer-1 sector, which excludes BTC and ETH, made
+only modest gains returning 1%.
+➤ When looking at 90D performance, Meme Coins also
+outperformed the market with a return of +55%. DeFi
+and Digital Culture performed the worst, plunging -19%
+and -17%, respectively.
+
+Note: Beta is measured relative to Bitcoin. Layer-1 sector excludes Bitcoin and Ethereum. DeFi and Digital Culture sectors
+correspond to CF Benchmark's DeFi Composite Index-London and Digital Culture Composite Index-London portfolio indices,
+respectively. Digital Culture includes Metaverse, NFTs, Music and Gaming.
+
+Source: Kraken Intelligence based on data from CoinGecko and CF Benchmarks.
+
+BTC Dominance and BTCUSD
+
+➤ In terms of risk-adjusted returns (Sharpe ratio) , ETH
+outperformed BTC (6.9 versus 3.7). Yet both ETH and
+BTC underperformed on a risk-adjusted basis relative to
+the Exchange (8.6) and Meme Coins sectors (8.0).
+➤ BTC dominance was relatively flat over the course of
+September, starting and closing the month at 38%.
+Historically, BTC dominance trends increased during
+downtrends in the crypto market.
+
+Source: Kraken Intelligence based on data from CoinGecko and CoinMarketCap.
+| kraken.com/subscribe/intelligence
+
+5
+
+5
+
+DeFi Overview
+
+October 2022
+Market Recap & Outlook
+
+DeFi Metrics (Oct. 2022)
+➤ MakerDAO, Lido Finance, and Curve ranked in the top 3 DeFi
+protocols by total value locked (TVL) during October. Looking at
+the Market Cap-to-TVL ratio, SushiSwap was the highest ranked
+this month. Turning to the 30D revenue change, SushiSwap and
+MakerDAO had the greatest revenue gain at +58% and +25%,
+respectively, while Compound had the greatest 30D revenue loss
+of -17%.
+➤ October 2022 performance for DeFi was mixed, with top assets
+posting performances between -17% to +49%. SUSHI gained the
+most, returning +49% while COMP fell the most, losing a -17%
+drop in value.
+
+Note: At the time of writing, Uniswap and Balancer data was not available.
+
+Source: Kraken Intelligence based on data from Token Terminal.
+
+DeFi Performance (Oct. 2022)
+
+Innovation & Developments
+On October 9, Ethereum development company Nethermind
+warped the decentralized exchange (DEX) Uniswap onto the
+Ethereum Layer-2 (L2) network StarkNet, allowing users to access a
+form of Uniswap on Starknet. On October 24, Aave launched a Lido
+Staked Ethereum, or stETH, earn strategy through its frontend for
+borrowing DAI, MakerDAO's stablecoin.
+Headwinds
+On October 6, BNB Chain suffered a $100M exploit on its crosschain bridge and halted operations momentarily. On October 11,
+Mango, a Solana-based decentralized platform, suffered a $100M
+exploit in an economic attack known as oracle price manipulation.
+Source: CoinDesk, Decrypt, and The Block.
+| kraken.com/subscribe/intelligence
+
+Source: Kraken Intelligence based on data from CoinGecko.
+
+6
+
+6
+
+NFT & GameFi Overview
+
+October 2022
+Market Recap & Outlook
+
+OpenSea Stats (7-day moving average)
+➤ NFT market activity on OpenSea continued to slow down in
+October. Average daily users and average daily transactions fell 11.0% and -13.8% MoM, respectively. NFT volume also saw a
+decrease with average daily volume dropping -18.2%.
+
+Innovation & Developments
+
+• Ethereum NFT project Moonbirds plans to transition community
+governance to a DAO in early 2023. Project creator Proof plans to
+seed the DAO with $2.6 million worth of crypto funds and NFTs.
+• Solana NFT project DeGods switched to a 0% royalty model and will
+no longer earn royalties on the sales of its NFTs. Other NFT
+marketplaces that dropped creator royalties recently include
+LookRare, SudoSwap, X2Y2, and Magic Eden.
+
+Source: Kraken Intelligence based on data from DappRadar.
+
+Top NFT Collections on Ethereum (Oct. 2022)
+
+Capital Raises
+Uniswap Labs ($165M) was the most notable capital raise this
+month. The company planned to use the capital to invest more in its
+non-fungible token (NFT) launch, amongst other projects. Other
+capital raises this month include: Improbable ($111M), Horizon
+($40M), Stardust ($30M), ChainSafe ($18.8M), Zoop ($15M),
+Mercury ($7.5M), Exclusible ($5M), Gomu ($5M), Stems ($4M),
+Otterspace ($3.7M), Yoloyolo ($3.5M), Acade2Earn ($3.2M), Azuki
+($2.5M), Paragraph ($1.7M), and Mintify ($1.6M).
+Source: CoinDesk, Decrypt, and BeInCrypto.
+
+| kraken.com/subscribe/intelligence
+
+Source: Kraken Intelligence based on data from Rarity Tools.
+
+7
+
+7
+
+Industry Highlights & News
+
+October 2022
+Market Recap & Outlook
+
+• Oct. 3: New York Digital Investment Group (NYDIG) raises $720 million for its Institutional Bitcoin Fund.
+• Oct. 4: Asset management giant Fidelity launches a new $5M Ethereum Index Fund, allowing clients access to ETH.
+• Oct 5: Asset management giant GoldenTree invests roughly $5M in SushiSwap.
+• Oct. 6: European Union confirms their sweeping ban on providing crypto services to Russia as the bloc tightens sanctions.
+• Oct. 6: Crypto investment firm Blockwater Technologies defaults on $3.4M crypt loan from decentralized lending protocol TrueFi.
+• Oct. 10: European Union's landmark digital asset legislation, Markets in Crypto Assets (MiCA), passes committee vote in European
+Parliament and paves the way for a Europe-wide regulatory approach to crypto.
+
+• Oct. 11: Mango, a Solana-based decentralized finance platform, suffers a $100M exploit.
+• Oct. 11: The U.S. Securities and Exchange Commission (SEC) rejects WisdomTree's most recent attempt to list a spot bitcoin ETF.
+• Oct. 13: The U.S. Bureau of Labor Statistics releases its Consumer Price Index (CPI) for September, which rose +8.2% YoY.
+• Oct. 17: Layer 1 blockchain Aptos, the brainchild of several ex-Meta employees, launches its mainnet after four years of technical
+development and much anticipation.
+
+• Oct. 17: Ethereum developers launches Shandong, the testnet for Ethereum’s next major upgrade, Shanghai.
+• Oct. 19: The U.S. Internal Revenue Services (IRS) releases 2022 tax guidelines, which clarifies the tax treatment of NFTs.
+• Oct. 24: Rishi Sunak announces to take over as the next U.K. Prime Minister following Prime Minister Truss's exit.
+• Oct. 25: U.K. lawmakers vote to recognize cryptoassets as regulated financial instruments and products as part of a proposed
+amendment to the draft of the Financial Services and Market Bills
+
+• Oct. 27: The U.S. Bureau of Economic Analysis releases its Q3 GDP report, which shows that the U.S. economy grew at an annual rate
+of 2.6% in Q3, its first increase in 2022.
+
+• Oct. 27: Elon Musk completes the acquisition of Twitter.
+• Oct. 31: Hong Kong unveils plans to allow the sale of crypto exchange-traded funds (ETFs) to investors.
+Source: Coindesk, The Block, Decrypt, Reuters, and Wall Street Journal.
+
+| kraken.com/subscribe/intelligence
+
+8
+
+8
+
+Bitcoin Correlations
+
+October 2022
+Market Recap & Outlook
+
+BTC Correlations (Jan. 1-Oct. 31 2022)
+
+➤ BTC’s 30-day correlation with the S&P 500 (0.54) and
+Nasdaq (0.49) remained positive but rapidly declined
+during the last week of October. BTC-S&P 500 and
+BTC-Nasdaq 30-day correlations ended the month at
+some of their lowest levels this year.
+
+Rolling 30-day Pearson correlation of daily log returns
+
+➤ Turning to risk-off assets, BTC’s 30-day correlation
+with gold (0.44) and U.S. Treasuries (0.21) remained
+positive this month.
+➤ The BTC-Gold 30-day correlation remained mostly
+stable throughout October and at times neared its
+2022 all-time high (0.56) established in September. It
+ended the month below its initial October levels.
+➤ The BTC-U.S. Treasuries 30-day correlation
+fluctuated more than any other correlation pair
+analyzed in October, hitting a low of 0.10, high of
+0.29, and ending the month at 0.21
+➤ BTC’s decelerating positive correlation with major
+U.S. equity markets and its relatively stable
+correlation with gold in October, occurred against the
+backdrop of BTC’s strengthening negative correlation
+with the U.S. dollar index (DXY).
+
+BTC Correlations (Oct. 1-31 2022)
+Descriptive stats of rolling 30-day Pearson correlation of daily log returns
+
+Source: Kraken Intelligence based on data from Coin Metrics, Yahoo Finance, and Google Finance.
+Note: Correlation calculations exclude U.S. TradFi non-trading days. CV = coefficient of variation.
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+9
+
+9
+
+History Says..
+
+October 2022
+Market Recap & Outlook
+
+BTCUSD Monthly Returns
+➤ BTC performed below the historical average for the
+month of October with a +6% return. Historically,
+October is a positive month for BTC performance with a
+historical median return of +15%.
+➤ So far in 2022, BTC has underperformed its historical
+monthly returns for every month except for March, July,
+and September.
+➤ Historically, October outperformed September as
+measured by the monthly median return. October 2022
+(+6%) outperformed September 2022 (-3%), which is in
+line with the historical trend.
+
+BTCUSD Monthly Volatility
+
+➤ October 2022 (32%) was less volatile than September
+2022 (64%).
+➤ BTC’s October 2022 volatility (32%) was well below its
+October historical median volatility (58%).
+
+Note: Whiskers extend to the furthest data point in each wing within 1.5 times the interquartile range. Points beyond whiskers are
+generally considered outliers.
+
+Source: Kraken Intelligence based on data from CoinGecko.
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+10
+
+10
+
+What The Whales Are Doing
+
+October 2022
+Market Recap & Outlook
+
+Whale Addresses: BTC and ETH
+To gauge sentiment among whales over the course of
+October we look to the amount of BTC and ETH held in
+whale wallets. Note that we define a “whale” as a wallet
+with more than ₿1,000 or Ξ10,000.
+➤ BTC whale activity remained relatively quiet in October.
+The amount of BTC held by whales remained flat,
+starting the month at ₿7.89M and closing at ₿7.90M.
+However, the number of BTC whales increased from
+2,125, to 2,132.
+➤ ETH whale activity was also relatively quiet. The amount
+of ETH held by whales started and closed the month at
+Ξ81.5M. However, the number of ETH whales
+decreased over the course of the month, starting off at
+1,294 and closing at 1,268.
+
+Number of Whales: BTC and ETH
+
+Source: Kraken Intelligence based on data from Coin Metrics.
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+11
+
+11
+
+Previous
+Market Recap & Outlook Reports
+
+September 2022: Silver Lining
+
+August 2022: Ride Out
+
+click here
+
+click here
+
+(https://kraken.docsend.com/view/w8bgmcneg8v56dzk)
+
+(https://kraken.docsend.com/view/yhi5gdfhxk3vvaw4)
+
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+12
+
+12
+
+How to Reach Us
+For all future Kraken Intelligence content, sign up at kraken.com/subscribe/intelligence.
+
+Feedback
+For comments, suggestions, or questions related to this report fill out our survey here
+(https://surveys.kraken.com/jfe/form/SV_ezEn2PfLl4MmLbw) or e-mail us at intel@kraken.com
+
+Where to Trade
+Spot & Futures Exchange
+Kraken provides access to over 200 cryptocurrencies spanning 627 markets with advanced trading
+features, industry-leading security, and on-demand client service. Additionally, Kraken offers
+seamless access to regulated derivatives on the Kraken Futures platform for eligible clients. Sign up
+for a free account in minutes at https://kraken.com/sign-up.
+OTC
+For OTC-related execution services or questions, please direct your communication to
+otc@kraken.com.
+Cryptowatch
+For multi-exchange charting, trading, portfolio tracking, and high resolution historical data, visit
+https://cryptowat.ch and create an account at https://cryptowat.ch/account/create.
+
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+13
+
+13
+
+DISCLAIMER
+The information in this report is provided by, and is the sole opinion of, Kraken’s research desk. The information is provided as
+general market commentary and should not be the basis for making investment decisions or be construed as investment advice
+with respect to any digital asset or the issuers thereof. Trading digital assets involves significant risk. Any person considering
+trading digital assets should seek independent advice on the suitability of any particular digital asset. Kraken does not guarantee
+the accuracy or completeness of the information provided in this report, does not control, endorse or adopt any third party
+content, and accepts no liability of any kind arising from the use of any information contained in the report, including without
+limitation, any loss of profit. Kraken expressly disclaims all warranties of accuracy, completeness, merchantability or fitness for a
+particular purpose with respect to the information in this report. Kraken shall not be responsible for any risks associated with
+accessing third party websites, including the use of hyperlinks. All market prices, data and other information are based upon
+selected public market data, reflect prevailing conditions, and research’s views as of this date, all of which are subject to change
+without notice. This report has not been prepared in accordance with the legal requirements designed to promote the
+independence of investment research and is not subject to any prohibition on dealing ahead of the dissemination of investment
+research. Kraken and its affiliates hold positions in digital assets and may now or in the future hold a position in the subject of this
+research. This report is not directed or intended for distribution to, or use by, any person or entity who is a citizen or resident of,
+or located in a jurisdiction where such distribution or use would be contrary to applicable law or that would subject Kraken
+and/or its affiliates to any registration or licensing requirement. The digital assets described herein may or may not be eligible for
+sale in all jurisdictions.
+
+| kraken.com/subscribe/intelligence
+
+| September 2022 Market Recap & Outlook
+
+14
+
+
